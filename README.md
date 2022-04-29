@@ -13,3 +13,9 @@ Program študenti obvezno preizkusijo še na preizkusnih datotekah (v dodatnem g
 Obstajata dve različičici omenjenih datoteke. Manjše datoteke z oznako 's' vsebujejo 10 miljonov in tiste brez te oznake oznake 50 miljonov 8-bitnih zlogov. Za kontrolo svojih rezultatov naj študenti upoštevajo, da bi morali za datoteko test2s.data dobiti vrednost entropije H4 približno 5,8127 bita na 8-bitni zlog.
 
 Za kontrolo svojih rezultatov pri večjih datotekah upoštevajte, da bi morali za datoteko test1.data dobiti vrednost entropije H5 približno 3,1598 bita na 8-bitni zlog.
+### Rezultat
+> test1.data - arhiviranje brez posebnega kodiranja <br/>
+> test2.data - najhitrejše gospodarno kodiranje<br/>
+> test3.data - najbolj možno gospodarno kodiranje<br/>
+> test4.data - normalno gospodarno kodiranje<br/>
+> test5.data - normalno gospodarno in dodatno tajno kodiranje<br/>

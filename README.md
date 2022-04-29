@@ -4,7 +4,7 @@ Računalniški program, ki izvede informacijsko analizo izbranih računalniških
 Program odpre podano datoteko in za izbrano dolžino nizov 8-bitno kodiranih znakov izračuna entropijo stacionarnega diskretnega informacijskega vira, ki naj bi te nize oddal/ustvaril (N. Pavešić, Informacija in Kodi, Založba FE in FRI 2010, str. 46-47).
 
 
-Za kontrolo svojih rezultatov pri večjih datotekah upoštevajte, da bi morali za datoteko test1.data dobiti vrednost entropije H5 približno 3,1598 bita na 8-bitni zlog.
+
 ### Rezultat
 > test1.data - arhiviranje brez posebnega kodiranja <br/>
 > test2.data - najhitrejše gospodarno kodiranje<br/>
